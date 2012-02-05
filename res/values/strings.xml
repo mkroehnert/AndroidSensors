@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloActivity!</string>
+    <string name="app_name">Sensor</string>
+    <string-array name="SensorTypes">
+        <item>Gyro</item>
+        <item>Accelerometer</item>
+        <item>Lin. Accelerometer</item>
+    </string-array>
+</resources>

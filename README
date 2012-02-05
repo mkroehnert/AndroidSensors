@@ -1,0 +1,33 @@
+ABOUT
+-----
+
+AndroidSensors is a small project to test the Android SDK.
+
+FEATURES
+--------
+
+AndroidSensors allows the selection of different sensors found
+in Android phones like accelerometers.
+
+It reads the sensor values (x, y, and z direction)
+and translates them into an RGB color value which
+is then displayed on the screen.
+
+REQUIREMENTS
+------------
+
+Android SDK - API version 10
+
+LICENSE
+-------
+
+AndroidSensors  is licensed under the FreeBSD license.
+
+
+DOWNLOADING
+-----------
+
+AndroidSensors: can be downloaded from its GitHub page:
+
+https://github.com/mkroehnert/AndroidSensors/downloads
+

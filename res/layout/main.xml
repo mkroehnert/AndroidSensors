@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <Spinner android:layout_height="wrap_content" android:layout_width="match_parent" android:id="@+id/sensorType"></Spinner>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/x" android:text="x = "></TextView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/y" android:text="y ="></TextView>
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="z =" android:id="@+id/z"></TextView>
+    <View android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/colorView"></View>
+</LinearLayout>
